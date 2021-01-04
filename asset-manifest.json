@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/sejn/static/css/main.3fbdd6cb.chunk.css",
-    "main.js": "/sejn/static/js/main.436df857.chunk.js",
-    "main.js.map": "/sejn/static/js/main.436df857.chunk.js.map",
-    "runtime-main.js": "/sejn/static/js/runtime-main.f945150a.js",
-    "runtime-main.js.map": "/sejn/static/js/runtime-main.f945150a.js.map",
-    "static/js/2.0211c4fe.chunk.js": "/sejn/static/js/2.0211c4fe.chunk.js",
-    "static/js/2.0211c4fe.chunk.js.map": "/sejn/static/js/2.0211c4fe.chunk.js.map",
-    "index.html": "/sejn/index.html",
-    "precache-manifest.7a4cf6982d50696ca2da48234a9a5bf4.js": "/sejn/precache-manifest.7a4cf6982d50696ca2da48234a9a5bf4.js",
-    "service-worker.js": "/sejn/service-worker.js",
-    "static/css/main.3fbdd6cb.chunk.css.map": "/sejn/static/css/main.3fbdd6cb.chunk.css.map",
-    "static/js/2.0211c4fe.chunk.js.LICENSE.txt": "/sejn/static/js/2.0211c4fe.chunk.js.LICENSE.txt",
-    "static/media/cotton-min.png": "/sejn/static/media/cotton-min.fa254f01.png",
-    "static/media/forHerMin.jpg": "/sejn/static/media/forHerMin.f5ca48a7.jpg",
-    "static/media/forHerNew.png": "/sejn/static/media/forHerNew.b7780032.png",
-    "static/media/forHimImage.png": "/sejn/static/media/forHimImage.5b1d64ab.png",
-    "static/media/forHimMin.jpg": "/sejn/static/media/forHimMin.bc640ffd.jpg",
-    "static/media/lady.png": "/sejn/static/media/lady.7037fd2b.png"
+    "main.css": "/cotton/static/css/main.8fec7c76.chunk.css",
+    "main.js": "/cotton/static/js/main.5a97bb15.chunk.js",
+    "main.js.map": "/cotton/static/js/main.5a97bb15.chunk.js.map",
+    "runtime-main.js": "/cotton/static/js/runtime-main.f2dc2498.js",
+    "runtime-main.js.map": "/cotton/static/js/runtime-main.f2dc2498.js.map",
+    "static/js/2.9bf5fbac.chunk.js": "/cotton/static/js/2.9bf5fbac.chunk.js",
+    "static/js/2.9bf5fbac.chunk.js.map": "/cotton/static/js/2.9bf5fbac.chunk.js.map",
+    "index.html": "/cotton/index.html",
+    "precache-manifest.ef76d1ce90b40a618b2f717f6c3f9b70.js": "/cotton/precache-manifest.ef76d1ce90b40a618b2f717f6c3f9b70.js",
+    "service-worker.js": "/cotton/service-worker.js",
+    "static/css/main.8fec7c76.chunk.css.map": "/cotton/static/css/main.8fec7c76.chunk.css.map",
+    "static/js/2.9bf5fbac.chunk.js.LICENSE.txt": "/cotton/static/js/2.9bf5fbac.chunk.js.LICENSE.txt",
+    "static/media/cotton-min.png": "/cotton/static/media/cotton-min.fa254f01.png",
+    "static/media/forHerMin.jpg": "/cotton/static/media/forHerMin.f5ca48a7.jpg",
+    "static/media/forHerNew.png": "/cotton/static/media/forHerNew.b7780032.png",
+    "static/media/forHimImage.png": "/cotton/static/media/forHimImage.5b1d64ab.png",
+    "static/media/forHimMin.jpg": "/cotton/static/media/forHimMin.bc640ffd.jpg",
+    "static/media/lady.png": "/cotton/static/media/lady.7037fd2b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f945150a.js",
-    "static/js/2.0211c4fe.chunk.js",
-    "static/css/main.3fbdd6cb.chunk.css",
-    "static/js/main.436df857.chunk.js"
+    "static/js/runtime-main.f2dc2498.js",
+    "static/js/2.9bf5fbac.chunk.js",
+    "static/css/main.8fec7c76.chunk.css",
+    "static/js/main.5a97bb15.chunk.js"
   ]
 }
